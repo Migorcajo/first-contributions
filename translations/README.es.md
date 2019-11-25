@@ -7,7 +7,7 @@
 
 Es complicado. Resulta difícil la primera vez que haces algo, especialmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _codigo abierto_ aprenden y contribuyen por primera vez.
 
-Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor que hacer las cosas en un entorno de prácticas? Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.
+Leer artículos y ver tutoriales puede ayudar, pero, ¿qué mejor que hacer las cosas en un entorno de prácticas? Este proyecto se enfoca en ser una guía y simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.
 
 #### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI)]( #tutoriales-con-otras-herramientas )*
 
@@ -17,7 +17,7 @@ Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en
 
 ## Bifurca (*Fork*) este repositorio
 
-Haz un *fork* de este repositorio haciendo click en el botón "*Fork*" en la parte superior derecha en esta página.
+Haz un *fork* de este repositorio haciendo click en el botón "*Fork*" en la parte superior derecha de esta página.
 Esto creará una copia de este repositorio en tu cuenta.
 
 ## Clona (*Clone*) el repositorio
